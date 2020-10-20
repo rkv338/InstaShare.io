@@ -1,0 +1,25 @@
+{
+  "name": "instashare.io",
+  "version": "1.0.0",
+  "description": "Applcation to speed up the transfer of data between phone and computer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkv338/InstaShare.io.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Rithvik Vellaturi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkv338/InstaShare.io/issues"
+  },
+  "homepage": "https://github.com/rkv338/InstaShare.io#readme",
+  "dependencies": {
+    "create-react-app": "^3.4.1"
+  }
+}
